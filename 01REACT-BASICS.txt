@@ -1,1 +1,19 @@
 Easy to manage complex frontEnd UI
+STATE or UI manipulation, JSX
+component reusability
+reusing of component- Props
+How to propagate change (Hooks)
+
+Additional
+Router - react don't have router= react routerdom
+state management - react don't have state management
+	Redux, Redux toolkitm zustand , context API
+class based component
+BAAS Apps- Social media Clone, e=commerce App..
+BAAS backend as a service Appwrite firebase superbase- 
+directly you can use backend
+
+After React - Backend
+- Framework Next JS, Gatsby, Remix 
+
+Node JS compiler provides environment for js which helps to run js out of the browser.
