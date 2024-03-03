@@ -15,9 +15,8 @@ function App() {
     // }
 
     let [counter, setCounter] = useState(15);
-    
-  const addValue = () =>{
 
+  const addValue = () =>{
     if(counter < 21){
       counter= counter+1
       console.log(counter);
