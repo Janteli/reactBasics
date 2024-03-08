@@ -23,3 +23,23 @@ assign priority to different types of work.
 reuse previously completed work.
 abort work if it's no longer needed.
 ---
+
+# React Questions Counter
+
+---
+
+let [counter, setCounter] = useState(15);
+const addValue = () =>{
+setCounter((prevCounter)=> prevCounter + 1)
+setCounter((prevCounter)=> prevCounter + 1)
+setCounter((prevCounter)=> prevCounter + 1)
+setCounter((prevCounter)=> prevCounter + 1)
+   her result is 19
+    setCounter(prevCounter+1);
+    setCounter(prevCounter+1);
+    setCounter(prevCounter+1);
+    setCounter(prevCounter+1);
+
+  }
+result is 16 not 19 because same task
+---
